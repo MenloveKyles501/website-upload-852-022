@@ -1,0 +1,1 @@
+Static movie site generated from uploaded TXT data. Add 1.jpg~150.jpg in the root directory to enable poster backgrounds.
